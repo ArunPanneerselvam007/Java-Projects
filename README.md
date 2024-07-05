@@ -1,2 +1,3 @@
 # Java-Projects
 In this repository , I had created Java GUI (Desktop application) using SWING ,AWT for frontend and JDBC Driver Manger, Mysql for Database Connectivity as backend.
+Here I had simple application like Login Page,Billing System,Mark calculation ,NotePad etc...
